@@ -1,0 +1,26 @@
+h1{
+    color: blue;
+}
+h1:hover{
+    color:black;
+}
+table {
+    border-collapse: collapse;
+  /*   color:blue */
+  }
+  thead{
+    color:red;
+    position:sticky;
+  }
+  td, th {
+    border: 1px solid #999;
+    padding: 0.5rem;
+    text-align: left;
+    position:relative;
+  }
+  tbody tr:nth-child(odd){
+    background: #eee;
+  }
+  th{
+    position:sticky;
+  }
