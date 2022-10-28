@@ -9,7 +9,7 @@ table {
   /*   color:blue */
   }
   thead{
-    color:white;
+    color:whitesmoke;
     position:sticky;
   }
   td, th {
@@ -22,7 +22,12 @@ table {
     background: #eee;
   }
 th {
-  background: black;
+  background: yellowgreen;
   position: sticky;
   top: 0;
+}
+
+.resize {
+  width: 15px;
+  height: auto;
 }
